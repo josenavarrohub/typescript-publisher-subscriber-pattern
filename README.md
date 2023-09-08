@@ -7,7 +7,10 @@ An example in TypeScript demonstrating the Publisher-Subscriber pattern.
 [https://josenavarrohub.github.io/typescript-publisher-subscriber-pattern/](https://josenavarrohub.github.io/typescript-publisher-subscriber-pattern/)
 
 ## Prerequisites
-You need to have [TypeScript]([https://nodejs.org/en/](https://www.npmjs.com/package/typescript)) installed on your system.
+You need to have TypeScript installed on your system.
+```
+npm install typescript -g
+```
 
 ## Architecture
 * Publisher-subscriber pattern.
