@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "rootDir": "./src",
+    "outDir": "./docs/js",
+    "sourceMap": true,
+    "removeComments": true,
+    "noEmitOnError": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "experimentalDecorators": true,
+    "allowJs": true,
+  }
+}
