@@ -27,4 +27,5 @@ It is only necessary to clone the repository, and compile the code with tsc.
 tsc -w
 ```
 
+## Author
 * **José Navarro** - [View LinkedIn profile](https://www.linkedin.com/in/josenavarroortiz/)
